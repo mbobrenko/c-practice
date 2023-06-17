@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\bin\Debug\net6.0\programm2.exe
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\bin\Debug\net6.0\programm2.deps.json
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\bin\Debug\net6.0\programm2.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\bin\Debug\net6.0\programm2.dll
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\bin\Debug\net6.0\programm2.pdb
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\obj\Debug\net6.0\programm2.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\obj\Debug\net6.0\programm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\obj\Debug\net6.0\programm2.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\obj\Debug\net6.0\programm2.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\obj\Debug\net6.0\programm2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\obj\Debug\net6.0\programm2.dll
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\obj\Debug\net6.0\refint\programm2.dll
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\obj\Debug\net6.0\programm2.pdb
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\obj\Debug\net6.0\programm2.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm2\obj\Debug\net6.0\ref\programm2.dll
