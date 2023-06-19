@@ -1,4 +1,4 @@
-﻿/*Написать программу которая выдает по цифре дни недели*/
+﻿﻿/*Написать программу которая выдает по цифре дни недели*/
 Console.Write("Enter the number: ");
 int dayNumber = Convert.ToInt32(Console.ReadLine());
 //Convert.ToInt32 - конвертировать число в строку//
