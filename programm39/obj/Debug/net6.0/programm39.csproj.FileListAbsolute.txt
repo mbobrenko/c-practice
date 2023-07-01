@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\bin\Debug\net6.0\programm39.exe
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\bin\Debug\net6.0\programm39.deps.json
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\bin\Debug\net6.0\programm39.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\bin\Debug\net6.0\programm39.dll
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\bin\Debug\net6.0\programm39.pdb
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\obj\Debug\net6.0\programm39.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\obj\Debug\net6.0\programm39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\obj\Debug\net6.0\programm39.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\obj\Debug\net6.0\programm39.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\obj\Debug\net6.0\programm39.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\obj\Debug\net6.0\programm39.dll
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\obj\Debug\net6.0\refint\programm39.dll
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\obj\Debug\net6.0\programm39.pdb
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\obj\Debug\net6.0\programm39.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm39\obj\Debug\net6.0\ref\programm39.dll
