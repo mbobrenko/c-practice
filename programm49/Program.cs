@@ -72,7 +72,7 @@ matrix[a, b] = temp;
 }
 }
 }
-Денис: void FillMatrixRandomNumbers(int[,] array)
+void FillMatrixRandomNumbers(int[,] array)
 {
 for(int i = 0; i < array.GetLength(0); i++)
 {
