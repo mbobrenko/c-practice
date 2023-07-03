@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\bin\Debug\net7.0\programm61.exe
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\bin\Debug\net7.0\programm61.deps.json
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\bin\Debug\net7.0\programm61.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\bin\Debug\net7.0\programm61.dll
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\bin\Debug\net7.0\programm61.pdb
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\obj\Debug\net7.0\programm61.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\obj\Debug\net7.0\programm61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\obj\Debug\net7.0\programm61.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\obj\Debug\net7.0\programm61.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\obj\Debug\net7.0\programm61.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\obj\Debug\net7.0\programm61.dll
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\obj\Debug\net7.0\refint\programm61.dll
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\obj\Debug\net7.0\programm61.pdb
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\obj\Debug\net7.0\programm61.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\seminar_c#\programm61\obj\Debug\net7.0\ref\programm61.dll
